@@ -16,7 +16,8 @@ The first to score 5 points wins the game!
 
 An alert will declare the winner, and the game will reset automatically.
 
-Features
+## Features
+
 Interactive buttons with hover effects.
 
 Real-time score tracking.
@@ -25,7 +26,8 @@ Example text showing what beats what (e.g., "Rock beats Scissors").
 
 Winning alert and auto-reset.
 
-Setup
+## Setup
+
 Download the files: index.html, styles.css, and script.js.
 
 Open index.html in your browser to play.
